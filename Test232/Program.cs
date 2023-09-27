@@ -11,7 +11,8 @@ namespace Test232
     {
         static void Main(string[] args)
         {
-            "hello AN NE ";
+           
+           lllllllllllllllll
         }
     }
 }
