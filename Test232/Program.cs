@@ -12,7 +12,7 @@ namespace Test232
         static void Main(string[] args)
         {
            
-           llllll
+           lehung
         }
     }
 }
