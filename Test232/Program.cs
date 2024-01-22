@@ -11,8 +11,7 @@ namespace Test232
     {
         static void Main(string[] args)
         {
-           
-           lehung
+            LeHungDepTrai
         }
     }
 }
